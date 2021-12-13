@@ -1,0 +1,6 @@
+[submodule "backend_utils"]
+	path = backend_utils
+	url = https://newgit.aeb.gov.br/gustavo.roque/backend-utils.git
+[submodule "flask_utils"]
+	path = flask_utils
+	url = https://github.com/FacoBackup/flask_utils.git

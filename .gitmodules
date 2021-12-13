@@ -1,0 +1,3 @@
+[submodule "flask_utils"]
+	path = flask_utils
+	url = https://github.com/FacoBackup/flask_utils.git
